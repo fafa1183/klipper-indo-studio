@@ -1,0 +1,10 @@
+*{box-sizing:border-box}body{margin:0;font-family:Arial,Helvetica,sans-serif;color:#111;line-height:1.6;background:#fff}a{color:#e6215a;text-decoration:none}a:hover{text-decoration:underline}
+header{border-bottom:1px solid #eee;padding:18px 24px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px}
+.logo{font-size:26px;font-weight:800;color:#111}.logo span{color:#e6215a}
+nav a{margin-left:18px;color:#111;font-weight:600}.btn{display:inline-block;background:#111;color:#fff!important;padding:12px 20px;border-radius:8px;font-weight:700}.btn.red{background:#e6215a}
+main{max-width:1080px;margin:0 auto;padding:36px 24px 56px}.hero{padding:28px 0}.hero h1{font-size:42px;line-height:1.15;margin:0 0 16px}.hero p{font-size:19px;color:#444;max-width:760px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px;margin:28px 0}.card{border:1px solid #e7e7e7;border-radius:12px;padding:20px}.card h3{margin-top:0}
+table{width:100%;border-collapse:collapse}td,th{border:1px solid #ddd;padding:12px;text-align:left}th{background:#f7f7f7}
+footer{border-top:1px solid #eee;padding:26px 24px;background:#fafafa}footer .wrap{max-width:1080px;margin:0 auto;display:flex;justify-content:space-between;flex-wrap:wrap;gap:16px}
+input,textarea,select{width:100%;padding:12px;border:1px solid #ccc;border-radius:8px;margin:6px 0 16px}label{font-weight:700}
+.small{color:#666;font-size:14px}
