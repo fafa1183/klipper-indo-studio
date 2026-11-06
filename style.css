@@ -8,3 +8,8 @@ table{width:100%;border-collapse:collapse}td,th{border:1px solid #ddd;padding:12
 footer{border-top:1px solid #eee;padding:26px 24px;background:#fafafa}footer .wrap{max-width:1080px;margin:0 auto;display:flex;justify-content:space-between;flex-wrap:wrap;gap:16px}
 input,textarea,select{width:100%;padding:12px;border:1px solid #ccc;border-radius:8px;margin:6px 0 16px}label{font-weight:700}
 .small{color:#666;font-size:14px}
+.brand{display:flex;align-items:center;gap:12px}.brand-icon{border-radius:10px;display:block}
+.doc-brand{display:flex;gap:16px;align-items:center;border:1px solid #eee;border-radius:12px;padding:16px 18px;margin-bottom:26px;background:#fafafa}.doc-icon{border-radius:16px;display:block}
+.foot-icon{border-radius:7px;vertical-align:-6px}
+.faq-item{border:1px solid #e7e7e7;border-radius:12px;padding:18px 20px;margin:14px 0}.faq-item h3{margin-top:0}
+.steps{counter-reset:step}.steps li{margin:10px 0}
